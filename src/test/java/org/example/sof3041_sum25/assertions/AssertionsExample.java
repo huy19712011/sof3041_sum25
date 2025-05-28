@@ -22,7 +22,7 @@ public class AssertionsExample {
 
         //fail("Not Yet Implemented", new RuntimeException("Explicitly Failed"));
 
-        fail(new RuntimeException("Explicitly Failed"));
+        //fail(new RuntimeException("Explicitly Failed"));
 
 
     }
